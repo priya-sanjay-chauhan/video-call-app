@@ -18,9 +18,6 @@ const HomePage = () => {
         <button onClick={handleJoinRoom} className='bg-sky-600 text-white w-full max-w-xs mx-auto p-4 border border-emerald-500 rounded-xl'>Join</button>
     </div>
    </div>
-//     <h1 className="text-3xl bg-red-700 border border-slate-900 font-bold underline">
-//     Hello world!
-//   </h1>
   )
 }
 
